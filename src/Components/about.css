@@ -2,7 +2,7 @@
 .about-wrapper{
     background-color: #f3f3f3;
     width: 100vw;
-    height: calc(100vh-calc(60px + 1vw));
+    height: calc(120vh-calc(60px + 1vw));
     padding:200px 100px;
     /* padding-top: 200px; */
     display: flex;
