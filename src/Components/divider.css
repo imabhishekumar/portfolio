@@ -1,0 +1,73 @@
+.divider-wrapper{
+    width: 100%;
+    background-color:#fff;
+    height:8vh;
+    position: relative;
+}
+
+.divider{
+    background-image: linear-gradient(to right, #343b51, #5d4376, #9f3a7e, #dd2564, #ff3e29);
+    clip-path: polygon(50% 0%, 100% 0, 98% 50%, 100% 100%, 0 100%, 2% 50%, 0 0);
+    height:8vh;
+    position: absolute;
+    width: 100%;
+    color:antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transform: rotate(-2deg);
+    z-index: 3;
+}
+
+
+.skill-title{
+    font-size: 4vw;
+    color:#fff;
+    font-family: 'VT323', monospace;
+}
+
+@media (max-width: 1200px){
+    .skill-title{
+        font-size: 4vw;
+      }
+
+}
+
+@media (max-width: 768px){
+  
+    .skill-title{
+      font-size: 5vw;
+    }
+}
+
+@media (max-width: 576px){
+    .divider-wrapper{
+        height:6vh;
+    }
+
+    .divider{
+        height:6vh;    
+    }
+
+    .skill-title{
+      font-size: 4vw;
+    }
+
+}
+
+@media (max-width: 420px){
+
+    .divider-wrapper{
+        height:5vh;
+    }
+
+    .divider{
+        height:5vh;    
+        transform: rotate(-3deg);
+
+    }
+  
+    .skill-title{
+      font-size: 5vw;
+    }
+}

@@ -1,0 +1,38 @@
+.footer-wrapper{
+    display: flex;
+    justify-content: space-between;
+    padding:50px 10%;
+}
+
+.footer-header{
+    font-size: 2vw;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.footer-icons{
+    font-size: 3vw;
+    color:#000;
+    margin-right: 2px;
+}
+
+
+@media (max-width: 768px){
+    .footer-header{
+        font-size: 3vw;;
+    }
+
+    .footer-icons{
+        font-size: 4vw;
+    }
+}
+
+
+@media (max-width: 420px){
+    .footer-header{
+        font-size: 3.5vw;;
+    }
+    .footer-icons{
+        font-size: 4.5vw;
+    }
+}
