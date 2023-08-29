@@ -3,7 +3,6 @@ import { FaFileDownload} from "react-icons/fa"
 import resume from '../assets/Abhishek.pdf'
 import { useState, useEffect } from "react";
 import { Link } from "react-scroll";
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import './navbar.css'
 

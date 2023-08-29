@@ -10,7 +10,7 @@ export default function Projects() {
                             return(
                               <div className="card">
                                 <a href={item.link} target="_blank" rel="noopener noreferrer">
-                                  <img src={item.img}/>
+                                  <img src={item.img} alt="card image"/>
                                   <div class="card-details">
                                       <button>{item.tag}</button>
                                       <div class="card-name">{item.name}</div>

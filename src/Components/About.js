@@ -9,7 +9,7 @@ export default function About(){
             <div className="about-wrapper" id="about">
 
                 <div className="about-image">
-                    <img src={photo} />
+                    <img src={photo} alt="image"/>
                 </div>
                 <div className="about-skills">
                     <div className="circle" id="circle1">
