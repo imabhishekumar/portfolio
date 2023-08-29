@@ -1,6 +1,7 @@
 import editor from "../assets/editor.png"
 import social from "../assets/socialTree.jpg"
 import recruit from "../assets/recruit.jpg"
+import weather from "../assets/weather.png"
 
 export const ProjectData = [
     {
@@ -23,6 +24,13 @@ export const ProjectData = [
         link: "https://imabhishekumar.github.io/recruitMe/",
         img: recruit,
         tag: 'Job'
+    },
+    {
+        name: "LookWea",
+        desc: "LookWea is a weather app created using openweathermap api. ",
+        link: "https://imabhishekumar.github.io/lookwea/",
+        img: weather,
+        tag: 'weather'
     }
 ]
 
