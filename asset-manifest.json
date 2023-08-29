@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.12967103.css",
+    "main.js": "/portfolio/static/js/main.e96497e1.js",
+    "static/media/mail.jpg": "/portfolio/static/media/mail.2df666f04e6c7768b614.jpg",
+    "static/media/photo2.jpg": "/portfolio/static/media/photo2.86d968855bac4decb0ec.jpg",
+    "static/media/Abhishek.pdf": "/portfolio/static/media/Abhishek.a780f777bf9ac660a6c4.pdf",
+    "static/media/socialTree.jpg": "/portfolio/static/media/socialTree.3311de3e6ea3ba109c50.jpg",
+    "static/media/recruit.jpg": "/portfolio/static/media/recruit.2b967189eb6b055c882b.jpg",
+    "static/media/editor.png": "/portfolio/static/media/editor.d48ab64bfe17e363b90d.png",
+    "static/media/react-js-icon.svg": "/portfolio/static/media/react-js-icon.4ee8d0003d0f7f9ccea03ac4aa13fb99.svg",
+    "static/media/node-js-icon.svg": "/portfolio/static/media/node-js-icon.10354602b1c0786e53037290e5ad547a.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/js-icon.svg": "/portfolio/static/media/js-icon.43e744a279a2adb2d549e76402f43593.svg",
+    "main.12967103.css.map": "/portfolio/static/css/main.12967103.css.map",
+    "main.e96497e1.js.map": "/portfolio/static/js/main.e96497e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12967103.css",
+    "static/js/main.e96497e1.js"
+  ]
+}
